@@ -2,13 +2,13 @@
         {
             "text": "ぼんじゅうる<br>お肉獲得",
             "color": "white",
-            "fontSize": "16px",
+            "fontSize": "14px",
             "textColor": "black"
         },
         {
             "text": "ぼんさん以外<br>お肉獲得",
             "color": "white",
-            "fontSize": "16px",
+            "fontSize": "14px",
             "textColor": "black"
         },
         {
@@ -20,13 +20,13 @@
         {
             "text": "ぼんじゅうる<br>ティッシュ<br>1年分獲得",
             "color": "white",
-            "fontSize": "16px",
+            "fontSize": "14px",
             "textColor": "black"
         },
         {
             "text": "ぼんさん以外<br>ティッシュ<br>1年分獲得",
             "color": "white",
-            "fontSize": "16px",
+            "fontSize": "14px",
             "textColor": "black"
         }
     
