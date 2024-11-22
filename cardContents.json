@@ -1,32 +1,32 @@
 [
         {
-            "text": "ぼんじゅうる<br>GET獲得",
+            "text": "ぼんじゅうる<br>お肉Get",
             "color": "white",
-            "fontSize": "14px",
+            "fontSize": "13px",
             "textColor": "black"
         },
         {
-            "text": "ぼんさん以外<br>GET獲得",
+            "text": "ぼんさん以外<br>お肉Get",
             "color": "white",
-            "fontSize": "14px",
+            "fontSize": "13px",
             "textColor": "black"
         },
         {
-            "text": "全員<br>GET獲得",
+            "text": "全員<br>お肉Get",
             "color": "white",
             "fontSize": "16px",
             "textColor": "black"
         },
         {
-            "text": "ぼんじゅうる<br>ティッシュ<br>1年分GET",
+            "text": "ぼんじゅうる<br>ティッシュ<br>1年分Get",
             "color": "white",
-            "fontSize": "14px",
+            "fontSize": "13px",
             "textColor": "black"
         },
         {
-            "text": "ぼんさん以外<br>ティッシュ<br>1年分GET",
+            "text": "ぼんさん以外<br>ティッシュ<br>1年分Get",
             "color": "white",
-            "fontSize": "14px",
+            "fontSize": "13px",
             "textColor": "black"
         }
     
